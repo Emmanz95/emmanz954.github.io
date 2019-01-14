@@ -19,6 +19,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -461,6 +463,7 @@
     <Content Include="Home.aspx" />
     <Content Include="images\inner_page_bnr.jpg" />
     <Content Include="Login.aspx" />
+    <Content Include="OPR.css" />
     <Content Include="Register.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>

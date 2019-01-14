@@ -2,6 +2,8 @@
 
 <!DOCTYPE html>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="OPR.css">
 
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -45,6 +47,10 @@
             color: #66FF33;
         }
 
+        .btnlogin {
+
+        }
+
         </style>
 </head>
 <body>
@@ -78,16 +84,120 @@
 
     </div>
     </form>
-    <p>
-        <img alt="" class="auto-style25" src="images/inner_page_bnr.jpg" /></p>
-    <h1 style="font-family:verdana;"><span class="auto-style26">Welcome to OpenRoad.NET</span> </h1>
-    <p> </p>
-    <br/>
-    <p> <img src="url"> </p>
-    <br />
-    <footer class="container-fluid text-center">
-  <p><a href="https://www.instagram.com/emmanz77/?hl=en" class="fa fa-instagram"></a> <a href="https://www.youtube.com/channel/UC8byFTIaLcVZ0wTC-8LVoFg?view_as=subscriber" class="fa fa-youtube"></a></p>
-</footer>
+    <div class= "header">
+		<h4>Welcome To the open road.NET Webpage</h4>
+	</div>
+
+	<div class= "card">
+		
+		<h3>Sales Statistics</h3>
+		<p>Vestibulum purus quam scelerisque, mollis nonummy metus</p>
+
+	</div>
+
+	<div class= "col-md-12">
+		
+		<div class= "row">
+			
+			<div class= "col-md-3">
+				
+				<div class= "box1"></div>
+
+			</div>
+
+			<div class= "col-md-3">
+				
+				<div class= "box1"></div>
+
+			</div>
+
+			<div class= "col-md-3">
+				
+				<div class= "box1"></div>
+
+			</div>
+
+			<div class= "col-md-3">
+				
+				<div class= "box1"></div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class= "col-md-12">
+		
+		<div class= "row">
+			
+			<div class= "col-md-4">
+				
+				<div class= "box2"></div>
+
+			</div>
+
+			<div class= "col-md-4">
+				
+				<div class= "box2"></div>
+
+			</div>
+
+			<div class= "col-md-4">
+				
+				<div class= "box2"></div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class= "col-md-12">
+		
+		<div class= "row">
+
+			<div class= "col-md-6">
+				
+				<div class= "box3"></div>
+
+			</div>
+
+		
+			
+			<div class= "col-md-6">
+				
+				<div class= "box3"></div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class= "col-md-12">
+		
+		<div class= "row">
+
+			<div class= "col-md-6">
+				
+				<div class= "box4"></div>
+
+			</div>
+
+		
+			
+			<div class= "col-md-6">
+				
+				<div class= "box4"></div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+    <footer><p>Copyright © 2018 Emmanz95</p></footer>
 
 </body>
 </html>
